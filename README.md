@@ -1,4 +1,4 @@
-# Invoice Information Extraction with Google Gemini
+# Multilanguage Invoice Extractor App with Google Gemini
 
 <p> This Python application utilizes Google's Gemini AI platform to extract information from images of invoices. The extracted data is then presented through a user-friendly interface powered by Streamlit. </p>
 
